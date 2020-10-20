@@ -8,5 +8,8 @@ namespace Othello.PlayerTypes
 {
     class Player
     {
+        String name ;
+        int ID;
+        
     }
 }
